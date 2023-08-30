@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426698198030",
+    "project_id": "zong-86e69",
+    "storage_bucket": "zong-86e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426698198030:android:7e322595a8c5363209005f",
+        "android_client_info": {
+          "package_name": "com.mindcob.zong_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426698198030-24o5ogg8mlkbnmauc39ku6en8gc9pj6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGRFG-xuSaZvu4NmROxFEvvRJAnwxqtDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426698198030-24o5ogg8mlkbnmauc39ku6en8gc9pj6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
